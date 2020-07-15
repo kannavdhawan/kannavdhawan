@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently Machine learning.. 
-- 🌱 I’m currently learning React.. 
+- 🔭 I’m currently working on Machine learning.. 
+- 🌱 I’m currently learning React..
 
 <!--
 
