@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Machine learning Engineer.. 
-- 🌱 I’m currently learning React..
+- 🌱 I’m currently learning Javascript..
 
 <!--
 
