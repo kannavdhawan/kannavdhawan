@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 👀 Looking for Data Scientist Roles. 
 - 🔭 Machine learning Engineer.. 
-- 🌱 I’m currently learning Javascript..
+- 🌱 I’m currently learning Big Data.. 
 
 <!--
 
