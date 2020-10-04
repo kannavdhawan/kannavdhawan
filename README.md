@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 - 👀 Looking for Data Scientist Roles. 
 - 🔭 Machine learning Engineer.. 
 - 🌱 I’m currently learning ETL and Hadoop Ecosystem
-- 🔦 Recent Research on Natural Language Processing-  [Extractive and Abstractive Text Summarization for Coherence Prevention](
- https://github.com/kannavdhawan/Extractive-and-abstractive-Text-summarization/blob/master/Text_summarization.pdf)
+- 🔦 Recent Research
+ - [Extractive and Abstractive Text Summarization for Coherence Prevention](https://github.com/kannavdhawan/Extractive-and-abstractive-Text-summarization/blob/master/Text_summarization.pdf)
+ - [Stance Detection- Fake News Challenge](https://github.com/kannavdhawan/Fake-News-Challenge/blob/master/Report_Fake_News_Challenge.pdf)
 <!--
 
 - 🤔 I’m looking for help with ...
