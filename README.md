@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 👀 Looking for Data Scientist Roles. 
+- 👀 Looking for Software Developer and Data Scientist Roles. 
 - 🔭 Machine learning Engineer.. 
 - 🌱 I’m currently learning ETL and Hadoop Ecosystem
 - 🔦 Recent Research
