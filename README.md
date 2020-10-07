@@ -14,5 +14,5 @@
 - 📫 How to reach me: k4dhawan@uwaterloo.ca
 
 ----
-![github stats](https://github-readme-stats.vercel.app/api?username=kannavdhawan&show_icons=true
+![github stats](https://github-readme-stats.vercel.app/api?username=kannavdhawan&show_icons=true)
 ----
