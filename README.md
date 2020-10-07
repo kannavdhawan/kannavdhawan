@@ -16,4 +16,4 @@
 ----
 ![github stats](https://github-readme-stats.vercel.app/api?username=kannavdhawan&show_icons=true)
 ----
-<div align="center">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-success)](https://www.linkedin.com/in/kannavdhawan/) [![Outlook Badge](https://img.shields.io/badge/-InMail-blue)](mailto:k4dhawan@uwaterloo.ca) </div>
+<div align="center"> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-success)](https://www.linkedin.com/in/kannavdhawan/) [![Outlook Badge](https://img.shields.io/badge/-InMail-blue)](mailto:k4dhawan@uwaterloo.ca) </div>
