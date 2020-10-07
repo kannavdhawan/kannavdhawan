@@ -14,7 +14,7 @@
 - 📫 How to reach me: k4dhawan@uwaterloo.ca
 
 ----
-![github stats](https://github-readme-stats.vercel.app/api?username=kannavdhawan&count_private=true&show_icons=true&hide=issues,contribs&theme=highcontrast)
+![github stats](https://github-readme-stats.vercel.app/api?username=kannavdhawan&count_private=true&show_icons=true&hide=issues,contribs&theme=cobalt)
 
 ----
 # <div align="center"> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-success)](https://www.linkedin.com/in/kannavdhawan/) [![Outlook Badge](https://img.shields.io/badge/-InMail-blue)](mailto:k4dhawan@uwaterloo.ca) </div>
