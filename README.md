@@ -1,6 +1,6 @@
 ### Hi there  👋
 
-- 👀 Looking for Software Developer and Data Scientist Roles. 
+- 👀 Looking for Software Developer, Technology consultant and Data Scientist Roles. 
 
 - 🔭 Machine learning Engineer.. 
 
